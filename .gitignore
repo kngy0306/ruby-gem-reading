@@ -1,0 +1,6 @@
+.rubocop.yml
+.vscode
+
+# bundle install --path vendor/bundle によって生成されるディレクトリ
+.bundle
+vendor
