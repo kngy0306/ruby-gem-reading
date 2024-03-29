@@ -1,0 +1,11 @@
+development:
+  cool:
+    saweet: nested settings
+  neat_setting: 1
+  awesome_setting: <%= "Did you know 5 + 5 = #{5 + 5}?" %>
+
+test:
+  cool:
+    saweet: nested settings
+  neat_setting: 800
+  awesome_setting: <%= "Did you know 100 + 100 = #{100 + 100}?" %>
